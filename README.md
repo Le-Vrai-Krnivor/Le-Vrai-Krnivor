@@ -11,11 +11,11 @@ Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et *
 ## 📈 Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Le-Vrai-Krnivor&show_icons=true&theme=radical" alt="Statistiques GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Vrai-Krnivor&layout=compact&theme=radical" alt="Langages les plus utilisés" />
 </p>
 
 ## 🔗 Retrouvez-moi ailleurs
