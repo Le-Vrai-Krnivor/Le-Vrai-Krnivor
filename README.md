@@ -1,12 +1,21 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et **Python**. J'adore créer des sites web dynamiques et des bots discord pour mes amis. 🚀
+Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et **Python**. J'adore créer des sites web dynamiques et des bots Discord pour mes amis. 🚀
 
 ## 🌟 À propos de moi
 
 - 🔭 Actuellement, je travaille sur des projets d'applications Android de vélo.
-- 🌱 J'apprends constamment de nouvelles technologies pour améliorer mes compétences comme me perfectionner en JS.
+- 🌱 J'apprends constamment de nouvelles technologies pour améliorer mes compétences, notamment en JS.
 - 💬 N'hésitez pas à me contacter pour discuter de développement web ou de collaboration sur des projets intéressants.
+
+## 💻 Mes langages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+</p>
 
 ## 📈 Mes statistiques GitHub
 
@@ -18,9 +27,28 @@ Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et *
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Vrai-Krnivor&layout=compact&theme=radical" alt="Langages les plus utilisés" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Le-Vrai-Krnivor&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Le-Vrai-Krnivor&theme=radical&no-frame=true&row=1&&margin-w=15" alt="Trophées GitHub" />
+</p>
+
 ## 🔗 Retrouvez-moi ailleurs
 
-- Bientôt 
+- [LinkedIn](https://www.linkedin.com/in/votreprofil)  
+- [Twitter](https://twitter.com/votreprofil)  
+- [Site personnel](https://votresite.com)  
+
 ---
 
-Merci de visiter mon profil ! 🌟 N'hésitez pas à explorer mes dépôts et à contribuer si quelque chose vous intéresse et de star mes projets ;).
+Merci de visiter mon profil ! 🌟 N'hésitez pas à explorer mes dépôts, à contribuer si quelque chose vous intéresse, et à mettre une étoile sur mes projets. 😊
+
+---
+
+### Astuces supplémentaires pour personnaliser votre profil :
+
+1. **Badges** : Ajoutez d'autres badges pour les technologies que vous utilisez.
+2. **GIFs ou images animées** : Ajoutez des GIFs pour rendre votre profil plus vivant.
+3. **Liens vers vos projets** : Incluez des liens directs vers certains de vos projets phares.
