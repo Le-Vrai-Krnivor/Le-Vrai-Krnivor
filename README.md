@@ -11,8 +11,7 @@ Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et *
 ## 💻 Mes langages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5
-  " />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -36,10 +35,27 @@ Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et *
   <img src="https://github-profile-trophy.vercel.app/?username=Le-Vrai-Krnivor&theme=radical&no-frame=true&row=1&&margin-w=15" alt="Trophées GitHub" />
 </p>
 
+## 🚀 Autres statistiques et graphiques
+
+### Contributions au fil du temps
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Le-Vrai-Krnivor&theme=radical" alt="Graphique d'activité" />
+</p>
+
+### Badge de profil dynamique
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Le-Vrai-Krnivor&theme=radical"/></a>
+</p>
+
+### Visiteurs du profil
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Le-Vrai-Krnivor&color=brightgreen" alt="Compteur de visites du profil"/>
+</p>
+
 ## 🔗 Retrouvez-moi ailleurs
  
--  bientôt 
+- bientôt 
 
 ---
 
-Merci de visiter mon profil ! 🌟 N'hésitez pas à explorer mes dépôts, à contribuer si quelque chose vous intéresse, et à mettre une étoile sur mes projets. ;)
+Merci de visiter mon profil ! 🌟 N'hésitez pas à explorer mes dépôts, à contribuer si quelque chose vous intéresse, et à mettre une étoile sur mes projets. 😉
