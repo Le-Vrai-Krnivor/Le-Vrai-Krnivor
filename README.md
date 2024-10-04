@@ -37,19 +37,9 @@ Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et *
 </p>
 
 ## 🔗 Retrouvez-moi ailleurs
-
-- [LinkedIn](https://www.linkedin.com/in/votreprofil)  
-- [Twitter](https://twitter.com/votreprofil)  
-- [Site personnel](https://votresite.com)  
+ 
+-  bientôt 
 
 ---
 
-Merci de visiter mon profil ! 🌟 N'hésitez pas à explorer mes dépôts, à contribuer si quelque chose vous intéresse, et à mettre une étoile sur mes projets. 😊
-
----
-
-### Astuces supplémentaires pour personnaliser votre profil :
-
-1. **Badges** : Ajoutez d'autres badges pour les technologies que vous utilisez.
-2. **GIFs ou images animées** : Ajoutez des GIFs pour rendre votre profil plus vivant.
-3. **Liens vers vos projets** : Incluez des liens directs vers certains de vos projets phares.
+Merci de visiter mon profil ! 🌟 N'hésitez pas à explorer mes dépôts, à contribuer si quelque chose vous intéresse, et à mettre une étoile sur mes projets. ;)
