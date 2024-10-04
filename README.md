@@ -39,6 +39,7 @@ Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et *
 
 ### Contributions au fil du temps
 <p align="center">
+  <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Le-Vrai-Krnivor&theme=radical" alt="Graphique d'activité" />
 </p>
 
