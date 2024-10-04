@@ -35,18 +35,6 @@ Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et *
   <img src="https://github-profile-trophy.vercel.app/?username=Le-Vrai-Krnivor&theme=radical&no-frame=true&row=1&&margin-w=15" alt="Trophées GitHub" />
 </p>
 
-## 🚀 Autres statistiques et graphiques
-
-### Contributions au fil du temps
-<p align="center">
-  <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Le-Vrai-Krnivor&theme=radical" alt="Graphique d'activité" />
-</p>
-
-### Badge de profil dynamique
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Le-Vrai-Krnivor&theme=radical"/></a>
-</p>
 
 ### Visiteurs du profil
 <p align="center">
@@ -55,7 +43,8 @@ Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et *
 
 ## 🔗 Retrouvez-moi ailleurs
  
-- bientôt 
+- [Mon discord](https://discord.gg/abntRHEdfz)
+  
 
 ---
 
