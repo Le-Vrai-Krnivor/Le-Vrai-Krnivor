@@ -4,8 +4,8 @@ Je suis un développeur passionné par le **HTML**, **CSS**, **JavaScript** et *
 
 ## 🌟 À propos de moi
 
-- 🔭 Actuellement, je travaille sur un projet de logiciels pour l'esthétique des souris.
-- 🌱 J'apprends constamment de nouvelles technologies pour améliorer mes compétences, notamment en JS.
+- 🔭 Actuellement, je travaille sur un projet de site internet 👀.
+- 🌱 J'apprends constamment de nouvelles technologies pour améliorer mes compétences, notamment en JS,PHP et SQL.
 - 💬 N'hésitez pas à me contacter pour discuter de développement web ou de collaboration sur des projets intéressants.
 
 ## 💻 Mes langages
