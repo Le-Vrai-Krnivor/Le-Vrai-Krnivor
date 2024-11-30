@@ -35,6 +35,6 @@
 
 
 ## ⚙️ Info GitHub
-Look my other stats on -> **[stats.md](https://github.com/Le-Vrai-Krnivor/Le-Vrai-Krnivor/stats.md)** !
+Look my other stats on -> **[stats.md](https://github.com/Le-Vrai-Krnivor/Le-Vrai-Krnivor/blob/main/stats.md)** !
 
 [![GitHubStreak](https://github-readme-streak-stats.herokuapp.com?user=Le-Vrai-Krnivor&theme=github-dark)](https://git.io/streak-stats)
