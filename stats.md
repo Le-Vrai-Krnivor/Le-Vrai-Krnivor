@@ -28,7 +28,7 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ## Web Brother
-![FIREFOX](https://img.shields.io/badge/firefox-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![FIREFOX](https://img.shields.io/badge/firefox-FB542B?style=for-the-badge&logo=firefox&logoColor=white)
 ![TOR](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 # Github stats
