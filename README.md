@@ -4,9 +4,8 @@
 ![VIEW](https://komarev.com/ghpvc/?username=zerbaib&color=blueviolet)
 
 # Something about me ...
-- 👋 Yo, I’m **[@Zerbaib](https://github.com/Zerbaib)** !
+- 👋 Yo, I’m **[@Le-Vrai-Krnivor](https://github.com/Le-Vrai-Krnivor)** !
 - 🇫🇷 I am a French developer.
-- 🎂 Only 309 days for my birthdate.
 
 ## My learning projects
 
@@ -19,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white")
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C & C++](https://img.shields.io/badge/C-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Contact me
 - 📫 How to reach me:
