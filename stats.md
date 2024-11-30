@@ -30,7 +30,7 @@
 # Github stats
 ![COMMITGRAPH](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Le-Vrai-Krnivor&theme=github_dark)
 ![GITSTATS](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Le-Vrai-Krnivor&theme=github_dark)
-![GITSTATS](https://github-readme-stats.vercel.app/api?username=Zerbaib&show_icons=true&theme=react)
+![GITSTATS](https://github-readme-stats.vercel.app/api?username=Le-Vrai-Krnivor&show_icons=true&theme=react)
 ![PROGSTATS](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Le-Vrai-Krnivor&layout=compact&langs_count=8&theme=react)
 ![WAKATIME](https://github-readme-stats.vercel.app/api/wakatime?username=@Le-Vrai-Krnivor&theme=react)
 
