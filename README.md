@@ -1,6 +1,5 @@
-[<img src="https://user-images.githubusercontent.com/81523999/229276448-55cf9349-2b20-4d49-b697-cfddc0b3a84a.png" style="width:125%">](https://github.com/Zerbaib)
 
-![TROPHY](https://github-profile-trophy.vercel.app/?username=Zerbaib&theme=darkhub&margin-w=10)
+![TROPHY](https://github-profile-trophy.vercel.app/?username=Le-Vrai-Krnivor&theme=darkhub&margin-w=10)
 
 ![VIEW](https://komarev.com/ghpvc/?username=zerbaib&color=blueviolet)
 
