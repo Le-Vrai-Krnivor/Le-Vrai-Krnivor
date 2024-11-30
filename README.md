@@ -1,7 +1,7 @@
 
 ![TROPHY](https://github-profile-trophy.vercel.app/?username=Le-Vrai-Krnivor&theme=darkhub&margin-w=10)
 
-![VIEW](https://komarev.com/ghpvc/?username=Le-Vrai-Krnivor&color=blueviolet)
+![VIEW](https://komarev.com/ghpvc/?username=Le-Vrai-Krnivor&color=bluegreen)
 
 # Something about me ...
 - 👋 Yo, I’m **[@Le-Vrai-Krnivor](https://github.com/Le-Vrai-Krnivor)** !
