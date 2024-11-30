@@ -22,21 +22,21 @@
 
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **``@zerbaib``**:
+  - **Discord**: **``@krnivor``**:
   
     [<img src="https://user-images.githubusercontent.com/81523999/246273989-48ea9368-246f-4af3-bf16-2c0c40705b71.png">](https://discord.gg/ESzHqadj5J)
 
 
-  - **@mail profesional**: **hugo.hennetin@proton.me**
-  - **@mail personal**: **zerbaib@proton.me**
+  - **@mail profesional**: **contact@quantum-corp.fr**
+  - **@mail personal**: **krnivor@proton.me**
 <details>
-  <summary><h3>💰 Donate Me</h3></summary>
+ <!-- <summary><h3>💰 Donate Me</h3></summary>
   
-  **[![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ZerbaibDev)**
-</details>
+ <!-- **[![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ZerbaibDev)**
+</details> -->
 
 
 ## ⚙️ Info GitHub
-Look my other stats on -> **[STATS.md](https://github.com/Zerbaib/Zerbaib/blob/main/STATS.md)** !
+Look my other stats on -> **[STATS.md](https://github.com/Le-Vrai-Krnivor/Le-Vrai-Krnivor/blob/main/STATS.md)** !
 
-[![GitHubStreak](https://github-readme-streak-stats.herokuapp.com?user=Zerbaib&theme=github-dark)](https://git.io/streak-stats)
+[![GitHubStreak](https://github-readme-streak-stats.herokuapp.com?user=Le-Vrai-Krnivor&theme=github-dark)](https://git.io/streak-stats)
