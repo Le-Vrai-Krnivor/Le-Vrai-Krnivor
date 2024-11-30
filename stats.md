@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Zerbaib&fontSize=60&animation=fadeIn&fontAlignY=38&desc=French%20Developer&descAlignY=51&descAlign=62)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Zerbaib&fontSize=60&animation=fadeIn&fontAlignY=38&desc=French%20Developer&descAlignY=51&descAlign=62](https://capsule-render.vercel.app/api?type=rounded&height=311&color=gradient&text=Le%2%-Vrai-Krnivor&section=header&reversal=false))
 # What i know
 ## Editor
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
