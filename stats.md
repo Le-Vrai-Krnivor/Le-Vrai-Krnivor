@@ -2,9 +2,6 @@
 # What i know
 ## Editor
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white")
-![SUBLIMETEXT](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ## Languages
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -32,11 +29,10 @@
 ![TOR](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 # Github stats
-![COMMITGRAPH](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zerbaib&theme=github_dark)
-![GITSTATS](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zerbaib&theme=github_dark)
-
+![COMMITGRAPH](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Le-Vrai-Krnivor&theme=github_dark)
+![GITSTATS](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Le-Vrai-Krnivor&theme=github_dark)
 ![GITSTATS](https://github-readme-stats.vercel.app/api?username=Zerbaib&show_icons=true&theme=react)
-![PROGSTATS](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zerbaib&layout=compact&langs_count=8&theme=react)
-![WAKATIME](https://github-readme-stats.vercel.app/api/wakatime?username=@Zerbaib&theme=react)
+![PROGSTATS](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Le-Vrai-Krnivor&layout=compact&langs_count=8&theme=react)
+![WAKATIME](https://github-readme-stats.vercel.app/api/wakatime?username=@Le-Vrai-Krnivor&theme=react)
 
 <img alt="github-snake" src="github-snake.svg" />
