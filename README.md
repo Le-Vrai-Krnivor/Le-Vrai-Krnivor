@@ -1,4 +1,4 @@
-
+https://stars.github.com/profiles/Le-Vrai-Krnivor/
 ![TROPHY](https://github-profile-trophy.vercel.app/?username=Le-Vrai-Krnivor&theme=darkhub&margin-w=10)
 
 ![VIEW](https://komarev.com/ghpvc/?username=Le-Vrai-Krnivor&color=blue)
