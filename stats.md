@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=311&color=gradient&text=Le%2%-Vrai-Krnivor&section=header&reversal=false)
 # What i know
 ## Editor
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual+studio+code&logoColor=white)
+
 
 ## Languages
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
